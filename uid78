@@ -1,0 +1,37 @@
+[
+    {
+        "device_id": "1a51fcf85c61929c",
+        "username": "Jotiris",
+        "password": "1212",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "24ff5d9862539847",
+        "username": "Jotiris",
+        "password": "1212",
+        "expirydate": "15-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a8d6b9797389cf1b",
+        "username": "Jotiris",
+        "password": "1212",
+        "expirydate": "15-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "6bcbcfe987128bd0",
+        "username": "Jotiris",
+        "password": "1212",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
+    },
+{
+        "device_id": "31f0a3e07622d565",
+        "username": "Jotiris",
+        "password": "1212",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
+    },
+]
