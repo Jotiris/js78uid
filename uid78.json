@@ -76,4 +76,11 @@
         "expirydate": "31-12-2045",
         "Allowoffline": true
     },
+        {
+        "device_id": "47da405d79e45f73",
+        "username": "TalaBay1",
+        "password": "T2025",
+        "expirydate": "31-12-2045",
+        "Allowoffline": true
+    },
 ]
