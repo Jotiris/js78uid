@@ -53,7 +53,7 @@
         "username": "TalaBay1",
         "password": "T2025",
         "expirydate": "31-12-2045",
-        "Allowoffline": true
+        "Allowoffline": false
     },
      {
         "device_id": "5f4ab16b42176c57",
