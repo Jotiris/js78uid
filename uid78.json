@@ -56,24 +56,24 @@
         "Allowoffline": false
     },
      {
-        "device_id": "5f4ab16b42176c57",
+        "device_id": "6e4b8386e579b344",
         "username": "TalaBay2",
         "password": "T2025",
         "expirydate": "31-12-2045",
-        "Allowoffline": true
+        "Allowoffline": false
     },
      {
         "device_id": "5f4ab16b42176c57",
         "username": "TalaBay3",
         "password": "T2025",
         "expirydate": "31-12-2045",
-        "Allowoffline": true
+        "Allowoffline": false
     },
      {
         "device_id": "5f4ab16b42176c57",
         "username": "TalaBay4",
         "password": "T2025",
         "expirydate": "31-12-2045",
-        "Allowoffline": true
+        "Allowoffline": false
     },
 ]
