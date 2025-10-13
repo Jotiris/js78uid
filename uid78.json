@@ -49,7 +49,7 @@
         "Allowoffline": true
     },
      {
-        "device_id": "c49b809a8c3e3267",
+        "device_id": "d1174b57ae09faf6",
         "username": "TalaBay1",
         "password": "T2025",
         "expirydate": "31-12-2045",
@@ -75,12 +75,5 @@
         "password": "T2025",
         "expirydate": "31-12-2045",
         "Allowoffline": true
-    },
-        {
-        "device_id": "47da405d79e45f73",
-        "username": "TalaBay1",
-        "password": "T2025",
-        "expirydate": "31-12-2045",
-        "Allowoffline": false
     },
 ]
