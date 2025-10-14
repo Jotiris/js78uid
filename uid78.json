@@ -53,27 +53,27 @@
         "username": "TalaBay1",
         "password": "T2025",
         "expirydate": "31-12-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
      {
         "device_id": "6e4b8386e579b344",
         "username": "TalaBay2",
         "password": "T2025",
         "expirydate": "31-12-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
      {
         "device_id": "3c5686561d7f5a47",
         "username": "TalaBay3",
         "password": "T2025",
         "expirydate": "31-12-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
      {
         "device_id": "d65f8b42a978ac06",
         "username": "TalaBay4",
         "password": "T2025",
         "expirydate": "31-12-2045",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 ]
