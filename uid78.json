@@ -41,6 +41,13 @@
         "expirydate": "15-12-2045",
         "Allowoffline": false
     },
+{
+        "device_id": "bfd50a7666af9008",
+        "username": "Trial",
+        "password": "T2025",
+        "expirydate": "03-11-2025",
+        "Allowoffline": false
+    },
      {
         "device_id": "5f4ab16b42176c57",
         "username": "Jotiris",
