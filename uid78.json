@@ -118,4 +118,11 @@
       "expirydate": "11-11-2025",
       "Allowoffline": false
    },
+   {
+      "device_id": "d20df5a0ff23a212",
+      "username": "Trial",
+      "password": "T2025",
+      "expirydate": "11-11-2025",
+      "Allowoffline": false
+   },
 ]
