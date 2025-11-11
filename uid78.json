@@ -21,5 +21,13 @@
       "password": "T2025",
       "expirydate": "31-12-2045",
       "Allowoffline": true
+    },
+   
+    {
+      "device_id": "fdbd8a1af7b5fb25",
+      "username": "Trial",
+      "password": "T2025",
+      "expirydate": "31-12-2045",
+      "Allowoffline": true
     }
  ]
