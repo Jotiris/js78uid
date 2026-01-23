@@ -1,33 +1,9 @@
 [
    {
-      "device_id": "bdfd35fc5a246770",
-      "username": "Trial",
-      "password": "T2025",
+      "device_id": "79f8eb0ed12804e2",
+      "username": "Seventh",
+      "password": "S2022",
       "expirydate": "31-12-2045",
       "Allowoffline": true
-    },
-    
-    {
-      "device_id": "4f7dbf2a06f36ab7",
-      "username": "Trial",
-      "password": "T2025",
-      "expirydate": "31-12-2045",
-      "Allowoffline": true
-    },
-        
-    {
-      "device_id": "d16f3d3c9a640d05",
-      "username": "Trial",
-      "password": "T2025",
-      "expirydate": "31-12-2045",
-      "Allowoffline": true
-    },
-     
-    {
-      "device_id": "fdbd8a1af7b5fb25",
-      "username": "Trial",
-      "password": "T2025",
-      "expirydate": "31-12-2045",
-      "Allowoffline": true
-    },
+   }
  ]
